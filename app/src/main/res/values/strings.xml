@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chat_message_placeholder">Mensaje</string>
+    <string name="chat_time_placeholder">00:00</string>
+
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">NewFirebaseKevin</string>
+
+    <!-- ID de cliente web para autenticación con Google -->
+    <string name="default_web_client_id">619837890728-0259lsckqqhd1ko7su7i6at0p90d9fj5.apps.googleusercontent.com</string>
+
+    <!-- Textos para pantalla de login -->
+    <string name="login_title">NewFirebaseKevin Chat</string>
+    <string name="login_button_google">Iniciar sesión con Google</string>
+    <string name="login_error_token">Token de Google nulo</string>
+    <string name="login_error_signin">Error al iniciar sesión</string>
+    <string name="login_error_auth">Autenticación fallida</string>
+
+    <!-- Textos para pantalla principal -->
+    <string name="main_title">Chats</string>
+    <string name="main_button_open_chat">Abrir chat demo</string>
+
+    <!-- Textos para pantalla de chat -->
+    <string name="chat_hint_message">Escribe un mensaje</string>
+    <string name="chat_button_send">Enviar</string>
+    <string name="chat_button_attach_image">Adjuntar imagen</string>
+    <string name="chat_contact_default">Contacto</string>
+    <string name="chat_contact_photo">Foto del contacto</string>
+    <string name="chat_error_send">Error enviando mensaje</string>
+    <string name="chat_error_upload">Error subiendo imagen</string>
+</resources>

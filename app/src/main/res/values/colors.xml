@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores para tema claro -->
+    <color name="primary">#4CAF50</color>
+    <color name="primaryVariant">#388E3C</color>
+    <color name="secondary">#03A9F4</color>
+    <color name="background">#FFFFFF</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onBackground">#000000</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema base con soporte para modo claro/oscuro -->
+    <style name="Base.Theme.NewFirebaseKevin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Personalización del tema claro -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primaryVariant</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:statusBarColor">@color/primaryVariant</item>
+        <item name="android:navigationBarColor">@color/background</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textColor">@color/onBackground</item>
+        <item name="android:background">@color/background</item>
+    </style>
+
+    <!-- Tema principal que se aplica en el Manifest -->
+    <style name="Theme.NewFirebaseKevin" parent="Base.Theme.NewFirebaseKevin" />
+</resources>
